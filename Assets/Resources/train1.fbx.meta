@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: feba3b33eb9d5194e95b769ac1b2f1c5
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: 2279829093579850648
+    second: Cube.002|Action
+  - first:
+      74: -5488762566660925982
+    second: Cube.002|Action.001
+  - first:
+      74: -4862924391851324744
+    second: Cube.002|Action.002
+  - first:
+      74: -3609686545537780727
+    second: Cube.002|Cube.006Action
+  - first:
+      74: 7637119466716608323
+    second: path|Action
+  - first:
+      74: -3982543039591807454
+    second: path|Action.001
+  - first:
+      74: -6047777834854096541
+    second: path|Action.002
+  - first:
+      74: -4827336014070858573
+    second: path|Cube.006Action
+  - first:
+      74: 4079035201911876067
+    second: train|Action
+  - first:
+      74: -8809441719353130696
+    second: train|Action.001
+  - first:
+      74: -596831210380819018
+    second: train|Action.002
+  - first:
+      74: -7165047883618345861
+    second: train|Cube.006Action
+  - first:
+      74: -2625552755141058377
+    second: wheeel|Action
+  - first:
+      74: -6095197942505356649
+    second: wheeel|Action.001
+  - first:
+      74: -1378342885576247265
+    second: wheeel|Action.002
+  - first:
+      74: 521712397963377072
+    second: wheeel|Cube.006Action
+  - first:
+      74: -2962328064169920839
+    second: wheel 2|Action
+  - first:
+      74: -406763921526451580
+    second: wheel 2|Action.001
+  - first:
+      74: 2282879266017982712
+    second: wheel 2|Action.002
+  - first:
+      74: -5247598367577793605
+    second: wheel 2|Cube.006Action
+  - first:
+      74: -5143702323426058797
+    second: wheeel.001|Action
+  - first:
+      74: 7070868125696058064
+    second: wheeel.001|Action.001
+  - first:
+      74: -8444039951070152624
+    second: wheeel.001|Action.002
+  - first:
+      74: 8531427564121212590
+    second: wheeel.001|Cube.006Action
+  - first:
+      74: 6991586443224267895
+    second: wheeel.002|Action
+  - first:
+      74: 6044721655362617180
+    second: wheeel.002|Action.001
+  - first:
+      74: 6203955715282150209
+    second: wheeel.002|Action.002
+  - first:
+      74: -1259206476323168400
+    second: wheeel.002|Cube.006Action
+  - first:
+      74: -7816198434833618186
+    second: wheeel.003|Action
+  - first:
+      74: -2317451667682573204
+    second: wheeel.003|Action.001
+  - first:
+      74: -9050123912489562418
+    second: wheeel.003|Action.002
+  - first:
+      74: 266833848140859179
+    second: wheeel.003|Cube.006Action
+  - first:
+      74: 5906933712920917662
+    second: wheeel.004|Action
+  - first:
+      74: 8986690997426149328
+    second: wheeel.004|Action.001
+  - first:
+      74: -8236676386648478965
+    second: wheeel.004|Action.002
+  - first:
+      74: 5467914481033781891
+    second: wheeel.004|Cube.006Action
+  - first:
+      74: 9016058992667223042
+    second: wheeel.005|Action
+  - first:
+      74: 2063238712515705152
+    second: wheeel.005|Action.001
+  - first:
+      74: 5882725471992157991
+    second: wheeel.005|Action.002
+  - first:
+      74: 755696912363412982
+    second: wheeel.005|Cube.006Action
+  - first:
+      74: -1797298334235698554
+    second: wheeel.006|Action
+  - first:
+      74: 7567760647253330707
+    second: wheeel.006|Action.001
+  - first:
+      74: -3764757711205913724
+    second: wheeel.006|Action.002
+  - first:
+      74: -2301289404809082047
+    second: wheeel.006|Cube.006Action
+  - first:
+      74: -2093239554998213111
+    second: wheeel.007|Action
+  - first:
+      74: 2333642433282627752
+    second: wheeel.007|Action.001
+  - first:
+      74: -6742670814738664020
+    second: wheeel.007|Action.002
+  - first:
+      74: 3978832898879316653
+    second: wheeel.007|Cube.006Action
+  - first:
+      74: -1304676035181015453
+    second: wheeel.008|Action
+  - first:
+      74: -2806134884030970438
+    second: wheeel.008|Action.001
+  - first:
+      74: -1680447065095094138
+    second: wheeel.008|Action.002
+  - first:
+      74: -634759568272964586
+    second: wheeel.008|Cube.006Action
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
