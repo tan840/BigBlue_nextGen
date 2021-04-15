@@ -1,2 +1,2 @@
 # BigBlue_nextGen
- Worked on the 2nd part of youtube short video with cinemachine and timeline
+ The is the sceond part of bigblue. It is where the story extends and with the story, we tried to make the visuals better.
